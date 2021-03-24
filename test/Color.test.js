@@ -1,0 +1,1 @@
+const Color = antifact.require('color.sol');
